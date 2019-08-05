@@ -1,8 +1,8 @@
 # site settings
 title: Helena Wang
 subtitle: engineer. artist.
-email: youremailaddress@gmail.com
-description: A mechanical engineer who's really not cut out for this programming stuff.
+email: hello@helenas.page
+description: Hello. I'm Helena. I make things.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.helenas.page # the base hostname & protocol for your site
 author:
@@ -31,6 +31,8 @@ twitter_url:
 
 # build settings
 markdown: kramdown
+plugins:
+  -jekyll-seo-tag
 
 sass:
   style: compressed
