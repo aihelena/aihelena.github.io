@@ -1,9 +1,9 @@
 # site settings
 title: Helena Wang
 subtitle: engineer. artist.
-email: youremailaddress@gmail.com
-description: A mechanical engineer who's really not cut out for this programming stuff.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+email: hello@helenas.page
+description: Hello. I'm Helena. I make things.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://www.helenas.page # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
@@ -15,7 +15,7 @@ phone: (716) 555-5555
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:
@@ -31,6 +31,8 @@ twitter_url:
 
 # build settings
 markdown: kramdown
+plugins:
+  -jekyll-seo-tag
 
 sass:
   style: compressed
