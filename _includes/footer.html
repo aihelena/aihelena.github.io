@@ -31,32 +31,18 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<!--<img class="icon alt" src="/assets/images/resume_icon.svg">-->
+					<span class="icon alt fa-file-text"></span>
+					<h3>Resume</h3>
+					<a href= "{{ site.resume }}"> Click here. </a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
+					<!--<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>-->
+					<span class="icon alt fa-linkedin"></span>
+					<h3>LinkedIn</h3>
+					<a href="{{ site.linkedin_url }}">{{ site.linkedin_url }}</a>
 				</div>
 			</section>
 		</section>
@@ -66,6 +52,7 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<!--
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -98,8 +85,9 @@
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
 			</ul>
+			-->
 			<ul class="copyright">
-				<li>&copy; {{ Helena Wang }} </li>
+				<li>&copy; Helena Wang </li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 

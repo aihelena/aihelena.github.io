@@ -2,20 +2,15 @@
 title: Helena Wang
 subtitle: engineer. artist.
 email: hello@helenas.page
-description: Hello. I'm Helena. I make things.
-baseurl: "/" # the subpath of your site, e.g. /blog
+description: I make things.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.helenas.page # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (555) 555-5555
+resume: http://bit.ly/helena_resume
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 3
 
 # social settings
 500px_url:
