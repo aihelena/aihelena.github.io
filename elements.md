@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Elements
+image: assets/images/mimsy.jpg
+permalink: /elements/
+show_tile: false
 nav-menu: false
 ---
 

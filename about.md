@@ -4,6 +4,7 @@ layout: landing
 description: 'Mechanical engineer, occasional artist, culinary dilettante.'
 image: assets/images/pic07.jpg
 permalink: /about/
+show_tile: false
 nav-menu: true
 ---
 
