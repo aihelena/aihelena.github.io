@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae512a7-ce4f-4905-b469-e88bb994b6a9" name="Default Changelist" comment="give me my favicon dangit">
-      <change afterPath="$PROJECT_DIR$/1_engineering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_interactive.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_design.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_posts.md" beforeDir="false" afterPath="$PROJECT_DIR$/all_posts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.md" beforeDir="false" afterPath="$PROJECT_DIR$/elements.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic.md" beforeDir="false" afterPath="$PROJECT_DIR$/generic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/landing.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/components/_tiles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/components/_tiles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,16 +94,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/components/_tiles.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2304">
-              <caret line="159" column="9" lean-forward="true" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+            <state relative-caret-position="416">
+              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -159,7 +151,6 @@
         <option value="$PROJECT_DIR$/_sass/components/_icon.scss" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_sass/libs/_vars.scss" />
-        <option value="$PROJECT_DIR$/_sass/components/_tiles.scss" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_layouts/landing.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
@@ -174,6 +165,7 @@
         <option value="$PROJECT_DIR$/design.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/generic.md" />
+        <option value="$PROJECT_DIR$/_sass/components/_tiles.scss" />
       </list>
     </option>
   </component>
@@ -596,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_tiles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2304">
-          <caret line="159" column="9" lean-forward="true" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -620,6 +605,13 @@
             <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/components/_tiles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
         </state>
       </provider>
     </entry>
