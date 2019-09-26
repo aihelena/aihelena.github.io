@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 50%;
+			width: 50%; /* Set split tile width*/
 
 			.image {
 				display: none;
@@ -102,7 +102,7 @@
 				opacity: 0.25;
 			}
 
-			&:nth-child(4n - 1),
+    		&:nth-child(4n - 1),
 			&:nth-child(4n - 2) {
 				flex: 1 auto;
 			}
@@ -181,3 +181,14 @@
 			}
 		}
 	}
+
+		.split {
+        &:nth-child(1), /*for every first and fourth for a set of 4*/
+        &:nth-child(2){
+            flex: 1 ;
+        }
+        &:nth-child(4n+2),/*for every second and third for that set of 4*/
+        &:nth-child(4n+3),{
+            flex: 2;
+        }
+        }

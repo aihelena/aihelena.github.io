@@ -1,13 +1,10 @@
 ---
-layout: page
+layout: tiled_landing
 title: Engineering Work
 image: assets/images/Robots_092_web.jpg
-permalink: /engineering/
+
 nav-menu: true
 ---
-
-<!-- Main -->
-<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
@@ -17,6 +14,5 @@ nav-menu: true
 		</header>
 	</div>
 </section>
-
-
+<!--permalink: /engineering/-->
   
