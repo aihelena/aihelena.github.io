@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Visual design
-image: assets/images/Robots_092_web.jpg
-permalink: /engineering/
+image: assets/images/logo_sketches.jpg
+permalink: /design/
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Engineering Work</h1>
+			<h1>Visual Design</h1>
 		</header>
 	</div>
 </section>
