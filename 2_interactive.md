@@ -2,7 +2,7 @@
 layout: page
 title: Interactive Art
 image: assets/images/mimsy.jpg
-permalink: /interactive/
+permalink: /art/
 nav-menu: true
 ---
 

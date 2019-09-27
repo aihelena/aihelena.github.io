@@ -9,11 +9,8 @@
 {% include head.html %}
 
 <body>
-    <div id="main">
-    {% include header.html %}
-    </div>
-    {% include tiles_landing.html %}
-    {% include footer.html %}
+
+    {% include header.html %} {{ content }} {% include footer.html %}
 
 </body>
 
