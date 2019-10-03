@@ -1,8 +1,9 @@
 ---
 layout: tiled_landing
 title: Engineering Work
-image: assets/images/Robots_092_web.jpg
+image: /assets/images/Robots_092_web.jpg
 desc: engineering
+permalink: /engineering/
 nav-menu: true
 ---
 
@@ -18,6 +19,6 @@ nav-menu: true
 	</div>
 
      {% include tiles_landing.html %}
-     
-<!--permalink: /engineering/-->
+  </section>   
+
   

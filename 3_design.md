@@ -1,8 +1,9 @@
 ---
 layout: tiled_landing
 title: Visual design
-image: assets/images/logo_sketches.jpg
+image: /assets/images/logo_sketches.jpg
 desc: design
+permalink: /design/
 nav-menu: true
 ---
 
@@ -18,5 +19,4 @@ nav-menu: true
 	</div>
 
      {% include tiles_landing.html %}
-
-<!--permalink: /design/-->
+</section>

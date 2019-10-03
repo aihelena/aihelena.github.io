@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Interactive Art
-image: assets/images/mimsy.jpg
-permalink: /art/
+image: /assets/images/mimsy.jpg
+permalink: /interactive/
+desc: interactive
 nav-menu: true
 ---
 
@@ -16,4 +17,6 @@ nav-menu: true
 			<h1>Interactive Art</h1>
 		</header>
 	</div>
+	
+	     {% include tiles_landing.html %}
 </section>
