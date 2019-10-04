@@ -4,7 +4,7 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
-/* Tiles */
+/* Split Tiles */
 
 	.split_tile {
 		@include vendor('display', 'flex');
@@ -43,7 +43,9 @@
 			header {
 				position: relative;
 				z-index: 3;
+				display: none;
 			}
+
 
 			h3 {
 				font-size: 1.75em;
@@ -64,6 +66,8 @@
 				width: 100%;
 				z-index: 4;
 			}
+
+
 
 			&:before {
 				@include vendor('transition', 'opacity 0.5s ease');
@@ -91,6 +95,9 @@
 			}
 
 			&:hover {
+			    header {
+			        display: block;
+			    }
 				&:before {
 					opacity: 0.25;
 				}
@@ -173,9 +180,11 @@
 				height: 16em;
 				max-height: none;
 				min-height: 0;
-
+				header {
+				    display: block;
+				}
 				h3 {
-					font-size: 1.5em;
+					font-size: 2em;
 				}
 			}
 		}
@@ -186,6 +195,12 @@
 			article {
 				height: 20em;
 				width: 100% !important;
+				header {
+				    display: block;
+				}
+				h3 {
+					font-size: 2em;
+				}
 			}
 		}
 	}
