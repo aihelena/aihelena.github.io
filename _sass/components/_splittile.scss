@@ -76,7 +76,7 @@
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.70;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
@@ -99,14 +99,14 @@
 			        display: block;
 			    }
 				&:before {
-					opacity: 0.25;
+					opacity: 0.20;
 				}
 			}
 
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
 				@include vendor('filter', 'blur(0.5em)');
-				opacity: 0.25;
+				opacity: 0.20;
 			}
 
             &:nth-child(4n+1), /*for every first and fourth for a set of 4*/
