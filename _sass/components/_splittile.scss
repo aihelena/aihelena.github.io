@@ -6,7 +6,7 @@
 
 /* Tiles */
 
-	.split {
+	.split_tile {
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
 		border-top: 0 !important;
@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 30%; /* Set split tile width*/
+			width: 60%; /* Set split tile width*/
 
 			.image {
 				display: none;
@@ -102,10 +102,18 @@
 				opacity: 0.25;
 			}
 
-    		&:nth-child(4n - 1),
-			&:nth-child(4n - 2) {
-				flex: 1 auto;
-			}
+            &:nth-child(4n+1), /*for every first and fourth for a set of 4*/
+            &:nth-child(4n){
+                width: 60%;
+                flex: auto;
+             }
+            &:nth-child(4n+2),/*for every second and third for that set of 4*/
+            &:nth-child(4n+3),{
+                width: 40%;
+                flex: auto;
+            }
+
+
 
 			&:nth-child(6n - 5) {
 				&:before {
@@ -155,7 +163,7 @@
 
 		@include breakpoint(medium) {
 			article {
-				width: 50% !important;
+				width: 50%;
 			}
 		}
 
@@ -181,14 +189,3 @@
 			}
 		}
 	}
-
-		.split {
-        &:nth-child(1), /*for every first and fourth for a set of 4*/
-        &:nth-child(2){
-            flex: 1 ;
-        }
-        &:nth-child(4n+2),/*for every second and third for that set of 4*/
-        &:nth-child(4n+3),{
-            flex: 2;
-        }
-        }
