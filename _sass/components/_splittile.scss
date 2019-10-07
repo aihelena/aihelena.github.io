@@ -36,6 +36,7 @@
 			position: relative;
 			width: 60%; /* Set split tile width*/
 
+
 			.image {
 				display: none;
 			}
@@ -65,6 +66,7 @@
 				top: 0;
 				width: 100%;
 				z-index: 4;
+				/*padding: 0.5em;*/
 			}
 
 
@@ -80,6 +82,7 @@
 				position: absolute;
 				width: 100%;
 				z-index: 2;
+				/*margin: 0.5em;*/
 			}
 
 			&:after {
@@ -111,13 +114,15 @@
 
             &:nth-child(4n+1), /*for every first and fourth for a set of 4*/
             &:nth-child(4n){
-                width: 60%;
+                width: calc(60% - 1.5em);
                 flex: auto;
+                /*margin: 0.75em;*/
              }
             &:nth-child(4n+2),/*for every second and third for that set of 4*/
             &:nth-child(4n+3),{
-                width: 40%;
+                width: calc(40% - 1.5em);
                 flex: auto;
+                /*margin: 0.75em;*/
             }
 
 
@@ -165,7 +170,8 @@
 				height: 30vh;
 				max-height: 30em;
 				min-height: 20em;
-			}
+                margin: 0.75em;
+                }
 		}
 
 		@include breakpoint(medium) {
@@ -177,7 +183,8 @@
 		@include breakpoint(small) {
 			article {
 				@include padding(3em, 1.5em);
-				height: 16em;
+                margin: 0em;
+
 				max-height: none;
 				min-height: 0;
 				header {
