@@ -99,6 +99,7 @@
 			$banner = $('#banner');
 
 		// Disable animations/transitions until the page has loaded.
+			/*
 			$body.addClass('is-loading');
 
 			$window.on('load pageshow', function() {
@@ -113,6 +114,7 @@
 					$('.is-transitioning').removeClass('is-transitioning');
 				}, 250);
 			});
+			*/
 
 		// Fix: Enable IE-only tweaks.
 			if (skel.vars.browser == 'ie' || skel.vars.browser == 'edge')
