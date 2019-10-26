@@ -31,7 +31,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/engineering" class="image">
-			<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="/assets/images/ebike_techfair.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -53,7 +53,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/interactive" class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/ghostship_art.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/design" class="image">
-			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/mimsy_igg.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -91,20 +91,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+    <section>
+		<a href="/design" class="image">
+			<img src="/assets/images/daftpunk_profile.jpg" alt="" data-position="top center" />
+		</a>
+	    <div class="content">
+	        <div class="inner">
+		        <header class="major">
+			        <h2>Art Blog</h2>
+		        </header>
+		        <p>For in-depth process notes and details of certain art projects, as well as 
+		        cosplay work I've done, you can visit my art blog at the link below (opens in new tab).
+		        </p>
+		        <ul class="actions">
+			        <li><a href="http://tinkertailor-hw.blogspot.com" class="button next" target="blank">Check it out</a></li>
+		        </ul>
+	        </div>
+	     </div>
+    </section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Art Blog</h2>
-		</header>
-		<p>For in-depth process notes and details of certain art projects, as well as 
-		cosplay work I've done, you can visit my art blog at the link below (opens in new tab).</p>
-		<ul class="actions">
-			<li><a href="http://tinkertailor-hw.blogspot.com" class="button next" target="blank">Check it out</a></li>
-		</ul>
-	</div>
-</section>
-
-</div>

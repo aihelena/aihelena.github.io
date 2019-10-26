@@ -1,7 +1,7 @@
 ---
 layout: tiled_landing
 title: Engineering Work
-image: /assets/images/Robots_092_web.jpg
+image: /assets/images/marble_runner.jpg
 desc: engineering
 permalink: /engineering/
 nav-menu: true
