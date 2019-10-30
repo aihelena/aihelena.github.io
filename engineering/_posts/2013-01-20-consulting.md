@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Marble Robot
-description: Enclosures and hardware
-image: /assets/images/marble_runner.jpg
+title: Consulting
+description: Mechanical design
+image: /assets/images/pic06.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -2,24 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae512a7-ce4f-4905-b469-e88bb994b6a9" name="Default Changelist" comment="give me my favicon dangit">
+      <change afterPath="$PROJECT_DIR$/design/_posts/2018-08-22-igg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/_posts/2018-12-27-brand.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design/_posts/2019-09-29-website.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_engineering.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_engineering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/10001225_309308569265953_195821743903754541_o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/10952868_10152758752931647_4469240264657681435_o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/2017-07-06 21.26.29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/IMG_20190731_115505.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Robots_092_web.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/dc01assm.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/robb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/shrouds.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/spoiler1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-8-20-etiam.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-8-21-consequat.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2018-10-17-alta.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-8-22-ipsum.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-8-23-magna.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-8-24-tempus.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2016-12-15-berkeley.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/_posts/2016-8-20-etiam.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive/_posts/2016-8-20-etiam.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive/_posts/2016-8-21-consequat.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,25 +24,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="400">
               <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_engineering.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="384">
-                <caret line="24" selection-start-line="24" selection-end-line="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -63,55 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="3953" selection-start-line="3" selection-start-column="3953" selection-end-line="3" selection-end-column="3953" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_sass/components/_button.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="443">
-              <caret line="134" column="345" selection-start-line="134" selection-start-column="345" selection-end-line="134" selection-end-column="345" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="11" selection-start-line="11" selection-end-line="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
-                <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="128">
-                <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
+              <caret line="134" column="326" selection-start-line="134" selection-start-column="326" selection-end-line="134" selection-end-column="326" />
             </state>
           </provider>
         </entry>
@@ -128,8 +63,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
+            <state relative-caret-position="532">
               <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="320">
+                <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -173,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/_sass/components/_icon.scss" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_sass/libs/_vars.scss" />
         <option value="$PROJECT_DIR$/_layouts/landing.html" />
@@ -215,9 +160,17 @@
         <option value="$PROJECT_DIR$/_sass/components/_button.scss" />
         <option value="$PROJECT_DIR$/engineering/_posts/2016-8-20-etiam.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" />
-        <option value="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" />
         <option value="$PROJECT_DIR$/1_engineering.md" />
         <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" />
+        <option value="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" />
+        <option value="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" />
+        <option value="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" />
+        <option value="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" />
+        <option value="$PROJECT_DIR$/design/_posts/2018-12-27-brand.md" />
+        <option value="$PROJECT_DIR$/design/_posts/2019-09-29-website.md" />
+        <option value="$PROJECT_DIR$/design/_posts/2018-08-22-igg.md" />
+        <option value="$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md" />
       </list>
     </option>
   </component>
@@ -230,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -261,6 +213,17 @@
             <path>
               <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="design" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="design" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="engineering" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -269,10 +232,22 @@
               <item name="engineering" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="interactive" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="interactive" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,17 +255,17 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/interactive.md" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\engineering\_posts" />
+      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\design\_posts" />
+      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\interactive\_posts" />
+      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\design" />
+      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\engineering" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\design\_posts" />
       <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io" />
       <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\_pages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\engineering\_posts" />
-      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\interactive\_posts" />
-      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\design" />
-      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\engineering" />
-      <recent name="C:\Users\Aqua\Documents\GitHub\aihelena.github.io\_posts_engineering" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -428,9 +403,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14434524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14508928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -476,38 +450,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="give me my favicon dangit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_sass/components/_contact-method.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/1_engineering.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-8-20-etiam.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/all_posts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/allposts.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -554,38 +496,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/_posts/2016-8-20-etiam.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="64">
             <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interactive/_posts/2016-8-20-etiam.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interactive/_posts/2016-8-21-consequat.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -773,61 +689,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/base/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/components/_button.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="134" column="345" selection-start-line="134" selection-start-column="345" selection-end-line="134" selection-end-column="345" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="128">
-            <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md">
+    <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="192">
-            <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -846,6 +714,134 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1776">
             <caret line="111" column="10" selection-start-line="111" selection-start-column="10" selection-end-line="111" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="192">
+            <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/components/_button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="134" column="326" selection-start-line="134" selection-start-column="326" selection-end-line="134" selection-end-column="326" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="48">
+            <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/_posts/2018-12-27-brand.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/_posts/2019-09-29-website.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="96">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/_posts/2018-08-22-igg.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="256">
+            <caret line="16" column="80" lean-forward="true" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="320">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>

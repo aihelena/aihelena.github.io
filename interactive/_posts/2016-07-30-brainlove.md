@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Etiam
-description: Feugiat amet tempus
-image: /assets/images/pic06.jpg
+title: Dr. Brainlove
+description: Burning Man Art Car
+image: /assets/images/brainlove_night.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
