@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae512a7-ce4f-4905-b469-e88bb994b6a9" name="Default Changelist" comment="give me my favicon dangit">
-      <change afterPath="$PROJECT_DIR$/interactive/_posts/2014-01-30-daftpunk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/tiles_landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/tiles_landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/IMG_2968.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/camassy.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/crypted_opencad.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/cryptex_cad.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/plinkofinalguided.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/stitchfix.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/systemPic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/yoyo_cad.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/yoyo_cad.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/_posts/2018-08-22-igg.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/_posts/2018-08-22-igg.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design/_posts/2019-09-29-website.md" beforeDir="false" afterPath="$PROJECT_DIR$/design/_posts/2019-09-29-website.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2013-01-20-consulting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cryptex_render.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/cryptex_render.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,12 +49,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="288">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="64">
+                <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,7 +176,6 @@
         <option value="$PROJECT_DIR$/1_engineering.md" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" />
-        <option value="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" />
         <option value="$PROJECT_DIR$/design/_posts/2018-12-27-brand.md" />
         <option value="$PROJECT_DIR$/design/_posts/2018-08-22-igg.md" />
@@ -190,6 +186,7 @@
         <option value="$PROJECT_DIR$/_includes/tiles_landing.html" />
         <option value="$PROJECT_DIR$/interactive/_posts/2014-01-30-daftpunk.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" />
+        <option value="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" />
       </list>
     </option>
   </component>
@@ -681,16 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design/_posts/2018-12-27-brand.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -847,7 +834,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="288">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="64">
+            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
