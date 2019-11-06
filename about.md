@@ -41,9 +41,10 @@ nav-menu: true
 				<p>After being introduced to mechanical engineering through FIRST robotics, 
 				I went on to build electric go-karts in college and assembled an e-bike with a 
 				custom battery pack for my thesis. I moved to Berkeley to continue working on
-				electric vehicles for my graduate studies, and found my first job after graduation
-				as a manufacturing engineer at Alta Motors. My most recent engineering experience has
-				been at Marble Robot.
+				electric vehicles for my graduate studies. </p>
+				<p>I found my first job after graduation as a manufacturing engineer at Alta Motors, and
+				went on to work as a mechanical engineer at Marble Robot. I am currently working as a 
+				freelance consultant for mechanical design and engineering. 
 				</p>
 				<ul class="actions">
 					<li><a href="/engineering" class="button">See more</a></li>
