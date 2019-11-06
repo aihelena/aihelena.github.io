@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aae512a7-ce4f-4905-b469-e88bb994b6a9" name="Default Changelist" comment="give me my favicon dangit">
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2016-12-15-berkeley.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2016-12-15-berkeley.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/engineering/_posts/2018-10-17-alta.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2018-10-17-alta.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" beforeDir="false" afterPath="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2014-01-30-daftpunk.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2014-01-30-daftpunk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2017-04-27-cryptex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" beforeDir="false" afterPath="$PROJECT_DIR$/interactive/_posts/2018-08-22-mimsy.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +13,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design/_posts/2013-05-22-paperweight.md">
+        <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <first_editor relative-caret-position="432">
+                <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -118,11 +109,11 @@
         <option value="$PROJECT_DIR$/interactive/_posts/2016-07-30-brainlove.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2013-05-22-yoyo.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2015-05-23-electric.md" />
-        <option value="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2018-10-17-alta.md" />
         <option value="$PROJECT_DIR$/engineering/_posts/2016-12-15-berkeley.md" />
         <option value="$PROJECT_DIR$/design/_posts/2013-05-22-paperweight.md" />
         <option value="$PROJECT_DIR$/about.md" />
+        <option value="$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md" />
       </list>
     </option>
   </component>
@@ -147,6 +138,17 @@
               <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="_includes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="engineering" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="aihelena.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="engineering" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="_posts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -307,6 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14508928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -684,16 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="9" column="80" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/engineering/_posts/2018-10-17-alta.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -739,6 +732,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="112">
             <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/engineering/_posts/2019-07-30-marble.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           </first_editor>
           <second_editor />
         </state>
