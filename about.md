@@ -83,7 +83,7 @@ nav-menu: true
 				</header>
 				<p>Some of my work doesn't fit neatly into a category of engineering or art.
 				I created and ran a fundraising campaign for the Burning Man art car I helped design.
-				I've dabbled in visual and UX design to create a set of logos for personal use, 
+				I've dabbled in graphic design to create a set of logos for personal use, 
 				as well as the navigation and layout of this website.
 				</p>
 				<ul class="actions">

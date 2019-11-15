@@ -1,6 +1,6 @@
 ---
 layout: tiled_landing
-title: Visual design
+title: Graphic design
 image: /assets/images/logo_sketches.jpg
 desc: design
 permalink: /design/
@@ -14,7 +14,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Visual Design</h1>
+			<h1>Graphic Design</h1>
 		</header>
 	</div>
 
