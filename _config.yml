@@ -6,7 +6,7 @@ description: I make things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.helenas.page # the base hostname & protocol for your site
 author: Helena Wang
-resume: http://bit.ly/helena_resume
+resume: https://drive.google.com/file/d/0BzH7pwFld9wLd1g4bDF6T19OdUE/view?usp=sharing&resourcekey=0-eJaVpX_342kfkCg6CedynQ
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
