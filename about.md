@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: landing
-description: 'Mechanical engineer, occasional artist, culinary dilettante.'
+description: 'Mechanical engineer, cosplayer and artist, culinary dilettante.'
 image: assets/images/ryan-stone-goldengate.jpg
 permalink: /about/
 show_tile: false

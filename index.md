@@ -10,4 +10,4 @@ show_tile: false
 
 I like hands-on work, designing things, and solving puzzles. 
 I have an affinity for neon LEDs, cats, and tea. 
-I spend a lot of time making food and drinks.
+I spend a lot of time making food, drinks, and cosplay.
