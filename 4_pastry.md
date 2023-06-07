@@ -1,9 +1,9 @@
 ---
 layout: tiled_landing
-title: Engineering Work
-image: /assets/images/spin_splash.jpg
-desc: engineering
-permalink: /engineering/
+title: Pastry
+image: /assets/images/pastry_mac_tea.jpg
+desc: pastry
+permalink: /pastry/
 nav-menu: true
 ---
 
@@ -14,11 +14,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Engineering Work</h1>
+			<h1>Pastry</h1>
 		</header>
 	</div>
 
      {% include tiles_landing.html %}
-  </section>   
-
-  
+</section>
