@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design and crafting
+title: Design and cosplay
 image: /assets/images/logo_sketches.jpg
 desc: design
 permalink: /design/
