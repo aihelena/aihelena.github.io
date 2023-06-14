@@ -10,7 +10,7 @@ resume: https://drive.google.com/file/d/0BzH7pwFld9wLd1g4bDF6T19OdUE/view?usp=sh
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 14
+tiles-count: 6
 
 # social settings
 500px_url:
