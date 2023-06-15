@@ -22,7 +22,7 @@ nav-menu: true
 		mechanism design, visual language, or conscious consumption. You can often find me looking for 
 		the perfectly optimized version of a consumer product, 
 		solving a puzzle hunt, 
-		practicing new ways to tear myself apart while dancing, 
+		assembling a complicated mousse cake, 
 		or shaking up a creative cocktail for a friend.</p>
 	</div>
 </section>
@@ -43,8 +43,7 @@ nav-menu: true
 				custom battery pack for my thesis. I moved to Berkeley to continue working on
 				electric vehicles for my graduate studies. </p>
 				<p>I found my first job after graduation as a manufacturing engineer at Alta Motors, and
-				went on to work as a mechanical engineer at Marble Robot. I am currently working as a 
-				freelance consultant for mechanical design and engineering. 
+				went on to work as a mechanical engineer at Marble Robot. Most recently, I worked at Spin, designing their first custom sharing scooter. 
 				</p>
 				<ul class="actions">
 					<li><a href="/engineering" class="button">See more</a></li>
@@ -74,17 +73,17 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/design" class="image">
-			<img src="/assets/images/mimsy_igg.png" alt="" data-position="25% 25%" />
+			<img src="/assets/images/daftpunk_profile.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Visual design</h3>
+					<h3>Design and cosplay</h3>
 				</header>
 				<p>Some of my work doesn't fit neatly into a category of engineering or art.
 				I created and ran a fundraising campaign for the Burning Man art car I helped design.
 				I've dabbled in graphic design to create a set of logos for personal use, 
-				as well as the navigation and layout of this website.
+				as well as the navigation and layout of this website. I create cosplays for conventions, often with a custom prop that makes use of my 3D modeling and fabrication skills. 
 				</p>
 				<ul class="actions">
 					<li><a href="/design" class="button">See more</a></li>
@@ -94,18 +93,17 @@ nav-menu: true
 	</section>
     <section>
 		<a href="/design" class="image">
-			<img src="/assets/images/daftpunk_profile.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/pastry_buche.jpg" alt="" data-position="top center" />
 		</a>
 	    <div class="content">
 	        <div class="inner">
 		        <header class="major">
-			        <h2>Art Blog</h2>
+			        <h2>Pastry</h2>
 		        </header>
-		        <p>For in-depth process notes and details of certain art projects, as well as 
-		        cosplay work I've done, you can visit my art blog at the link below (opens in new tab).
+		        <p>I'm an avid baker, and I've worked as a pastry chef at a small professional bakery. My personal favorite cakes are entremets, which combine several pastry components into a single harmonious dessert.
 		        </p>
 		        <ul class="actions">
-			        <li><a href="http://tinkertailor-hw.blogspot.com" class="button next" target="blank">Check it out</a></li>
+			        <li><a href="/pastry" class="button">See more</a></li>
 		        </ul>
 	        </div>
 	     </div>
