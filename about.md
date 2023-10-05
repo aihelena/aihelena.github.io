@@ -14,10 +14,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>I've lived all over, from brief stints in Arkansas and Illinois to growing up in
-		South Carolina, spending time in Switzerland, and now residing in San Francisco. 
-		On the way, I've completed an undergraduate education at MIT and a master's degree
-		at UC Berkeley, both in mechanical engineering. I minored in creative writing.<br> <br>
+		<p>
 		I'm interested in the ways we interact with the physical world, whether that's things on wheels,
 		mechanism design, visual language, or conscious consumption. You can often find me looking for 
 		the perfectly optimized version of a consumer product, 
@@ -43,7 +40,7 @@ nav-menu: true
 				custom battery pack for my thesis. I moved to Berkeley to continue working on
 				electric vehicles for my graduate studies. </p>
 				<p>I found my first job after graduation as a manufacturing engineer at Alta Motors, and
-				went on to work as a mechanical engineer at Marble Robot. Most recently, I worked at Spin, designing their first custom sharing scooter. 
+				went on to work as a mechanical engineer at Marble Robot. Most recently, I worked at Spin, designing a custom sharing scooter. 
 				</p>
 				<ul class="actions">
 					<li><a href="/engineering" class="button">See more</a></li>
@@ -81,9 +78,8 @@ nav-menu: true
 					<h3>Design and cosplay</h3>
 				</header>
 				<p>Some of my work doesn't fit neatly into a category of engineering or art.
-				I created and ran a fundraising campaign for the Burning Man art car I helped design.
-				I've dabbled in graphic design to create a set of logos for personal use, 
-				as well as the navigation and layout of this website. I create cosplays for conventions, often with a custom prop that makes use of my 3D modeling and fabrication skills. 
+				I created and ran a fundraising campaign for the Burning Man art car I helped design. 
+				I create cosplays for conventions, often with a custom prop that makes use of my 3D modeling and fabrication skills. 
 				</p>
 				<ul class="actions">
 					<li><a href="/design" class="button">See more</a></li>
